@@ -13,31 +13,46 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: DssFactory
-email: info@dssfactory.com
-description: > # this means to ignore newlines until "baseurl:"
-  Decision Support System Factory
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.dssfactory.com" # the base hostname & protocol for your site, e.g. http://example.com
+lang: en-US
+title: Basically Basic
+email: dugan.nash@mailinator.com
+description: "Your new default Jekyll theme"
+baseurl: ""  # the subpath of your site, e.g. /blog
+url: ""  # the base hostname & protocol for your site, e.g. http://example.com
+author:
+  name: Dugan Nash
+  twitter: Towlette_Pettetucci
+  picture: /assets/images/johndoe.png
+twitter_username: Towlette_Pettetucci
+github_username: Towlette_Pettetucci
+logo: /assets/icons/basically-basic-logo-light.svg
+search: true
+search_full_content: true
+search_provider: algolia
+algolia:
+  application_id: QB6HVGBSBA
+  index_name: basically-basic
+  search_only_api_key: 9d5014e5bbc77372547bce778dfa5663
+  powered_by: # true (default), false
 
-# Company Information
-company_name: DssFactory
-address_line: Schiedam, the Netherlands
-telephone_number: +31 (0)6 192 131 85
-fax_number: ""
-company_email: info@dssfactory.com
-google_map: https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d3618.727010735933!2d91.837871!3d24.907291700000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2s!4v1404919738144
-
-# Social Link
-facebook_link: http://www.facebook.com
-twitter_link: http://www.twitter.com
-linkedin_link: http://www.linkedin.com
-googleplus_link: ""
+# Liquid
+liquid:
+  error_mode: strict
 
 # Build settings
 markdown: kramdown
-plugins:
+theme: jekyll-theme-basically-basic
+plugins: # previously gems
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+feed:
+  path: atom.xml
+
+# Pagination - https://jekyllrb.com/docs/pagination/
+paginate: 10
+paginate_path: /page:num/
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -50,3 +65,26 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Collections
+collections:
+  recipes:
+    output: true
+    permalink: /:collection/:path/
+
+# Front Matter Defaults
+defaults:
+  # _posts
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
+      read_time: true
+  # _recipes
+  - scope:
+      path: "_recipes"
+      type: recipes
+    values:
+      layout: post
+      read_time: true
