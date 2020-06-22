@@ -10,10 +10,6 @@ image:
   caption: "Precipitation, Android APP"
 ---
 
-# Rainwater Harvest
-
-## Introduction
-
 The purpose of this project is to implement innovative methods of harvesting rain water for domestic use and crop production thereby improving the livelihoods and food security in the community and giving them a chance to empower themselves economically.
 
 ## Problem
