@@ -3,7 +3,7 @@ title:      "Rainwater Harvest"
 company:    "DssFactory"
 position:   "Developer"
 image: 
-  path: /assets/images/projects/RainwaterHarvest/app.jpg
+  path: /assets/images/projects/RainwaterHarvest/header.jpg
   thumbnail: /assets/images/projects/RainwaterHarvest/rainwaterharvest-400x200.jpg
   caption: "Precipitation, Android APP"
 ---
