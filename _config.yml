@@ -36,7 +36,6 @@ disqus:
 
 search: true
 search_full_content: true
-search_provider: algolia
 search_provider: lunr
 algolia:
   application_id: # YOUR_APPLICATION_ID
@@ -102,7 +101,7 @@ paginate_path: /page:num/
 
 # Collections
 collections:
-  recipes:
+  projects:
     output: true
     permalink: /:collection/:path/
 
