@@ -6,7 +6,7 @@ position:   "Developer"
 keyword:    "Precipitation, Android APP"
 image: 
   path: /assets/images/projects/RainwaterHarvest/app.jpg
-  thumbnail: /assets/images/projects/RainwaterHarvest/app.jpg
+  thumbnail: /assets/images/projects/RainwaterHarvest/rainwaterharvest-400x200.jpg
   caption: "Precipitation, Android APP"
 ---
 
