@@ -1,4 +1,4 @@
-baseurl: '/'
+baseurl: 'www.dssfactory.com'
 permalink: pretty
 title: 'DssFactory'
 
@@ -18,7 +18,7 @@ footer:
 seo:
   meta_og_title: "DssFactory"
   meta_og_type: "website"
-  meta_og_url: "http://www.dssfactory.com<"
+  meta_og_url: "http://www.dssfactory.com"
   meta_og_image: "https://raw.githubusercontent.com/zerostaticthemes/jekyll-serif-theme/master/screenshots/tn.png"
   meta_og_description: "The Company aims at the development tailor made solutions using and combining concepts of physics, data mining and ICT."
   meta_twitter_card: "summary"
