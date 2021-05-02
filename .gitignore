@@ -1,14 +1,22 @@
-# Mac OS
-.DS_Store
-
-# PyCharm
-.idea/
+# NPM
+node_modules
+npm-debug.log
 
 # Jekyll
+_site
 _site/
 .sass-cache/
+.jekyll-cache/
 .jekyll-metadata
-
-# Ruby
 Gemfile.lock
-*.gem
+**/Gemfile.lock
+
+# Temporary files
+tmp
+.DS_Store
+Desktop.ini
+._*
+Thumbs.db
+.Spotlight-V100
+.Trashes
+.idea
