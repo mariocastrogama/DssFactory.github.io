@@ -29,7 +29,7 @@ collections:
   services:
     output: true
   team:
-    output: true
+    output: false
 
 sass:
   indentWidth: 4
