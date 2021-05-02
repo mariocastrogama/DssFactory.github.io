@@ -1,4 +1,6 @@
+url: 'http://www.dssfactory.com'
 baseurl: '/'
+
 permalink: pretty
 title: 'DssFactory'
 
