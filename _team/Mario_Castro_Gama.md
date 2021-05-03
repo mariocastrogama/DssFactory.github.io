@@ -3,10 +3,10 @@ title: "Mario Castro Gama"
 date: 2015-11-18T00:00:00+01:00
 draft: false
 image: "images/team/Mario_Castro_Gama.jpg"
-jobtitle: "Accounting Partner"
+jobtitle: "CEO"
 linkedinurl: "https://www.linkedin.com/in/mario-castro-gama-7a585244/"
 promoted: true
-weight: 2
+weight: 1
 layout: team
 ---
 

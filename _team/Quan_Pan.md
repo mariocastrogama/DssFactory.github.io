@@ -6,7 +6,7 @@ image: "images/team/Quan_Pan.jpg"
 jobtitle: "CTO"
 linkedinurl: "https://www.linkedin.com/in/quanpan302"
 promoted: true
-weight: 1
+weight: 2
 layout: team
 ---
 
