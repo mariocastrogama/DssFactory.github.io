@@ -1,17 +1,17 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
-    "image": "images/features/noun_branding_1885335.svg"
+    "title": "Geographic Information System",
+    "description": "Capture and analyze spatial and geographic data.",
+    "image": "images/features/noun_3d modeling_1885342.svg"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Artificial Intelligence",
+    "description": "Machine learning, Deep learning.",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
-    "image": "images/features/noun_3d modeling_1885342.svg"
+    "title": "Optimization",
+    "description": "Select a best element, with regard to some criterion, from some set of available alternatives.",
+    "image": "images/features/noun_branding_1885335.svg"
   }
 ]
