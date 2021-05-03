@@ -1,11 +1,12 @@
 ---
-title: "Bill McDonald"
-date: 2018-11-19T10:47:58+10:00
+title: "Quan Pan"
+date: 2015-11-18T00:00:00+01:00
 draft: false
-image: "images/team/nonsap-visuals-kMJp7620W6U-unsplash.jpg"
-jobtitle: "Graphic Designer"
-linkedinurl: ""
-weight: 7
+image: "images/team/Quan_Pan.jpg"
+jobtitle: "CTO"
+linkedinurl: "https://www.linkedin.com/in/quanpan302"
+promoted: true
+weight: 1
 layout: team
 ---
 
