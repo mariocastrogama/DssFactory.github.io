@@ -10,4 +10,4 @@ weight: 1
 layout: team
 ---
 
-Years of experience in water resources and systems design and planning. Including hydropower, irrigation and water distribution projects.
+Years of experience in water resources and systems design and planning. Including hydropower, irrigation and water distribution system.

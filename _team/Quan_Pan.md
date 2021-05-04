@@ -10,4 +10,4 @@ weight: 2
 layout: team
 ---
 
-Do not limit your potentials and creativities!
+Years of experience in numerical simulation and machine learning projects.
